@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Remix",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Bopeebo-rumble",
+			"miku",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Gunpoint-Remix",
+			"iconeeveemad",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Bruh-MeMe",
+			"raf",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"camellia",
+		"boefrendXD",
+		"playablegfv2"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Camellia week"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Fight Boyfriend",
+	"difficulties": "Easy, Normal, Hard,",
+	"hideFreeplay": true,
+	"weekBackground": "rafka",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Abapes",
+			"raf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Fanany",
+			"raf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"ARYUTA",
+			"rafm",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Camellia week"
+}

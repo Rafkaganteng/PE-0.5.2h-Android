@@ -1,0 +1,50 @@
+{
+	"storyName": "Hmm Oh Ok",
+	"difficulties": "Remix,Mania,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Abapes-Remix",
+			"raf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Sasus",
+			"raf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Sabatus-Mania",
+			"bf",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"camellia",
+		"boefrendXD",
+		"playablegfv2"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Camellia week"
+}
