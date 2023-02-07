@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-118,
+				10
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-74,
+				3
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-123,
+				-47
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-119,
+				31
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-156,
+				4
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-113,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "depression",
+			"indices": [],
+			"name": "BF is depression"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/compassionbf-3",
+	"position": [
+		-1205,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-400,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
